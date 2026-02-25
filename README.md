@@ -1,6 +1,6 @@
 ### 👨‍💻 About me:
 
-Software Engineer with 7+ years of experience in TypeScript, Angular, React, and Node.js. A recent achievement is rebuilding the UI of a healthcare platform (10k+ users, 20k+ eConsults/month), preserving functionality while improving UX. Interested in scalability, architecture, and AI-powered coding.
+Software Engineer with 7+ years of experience in TypeScript, Angular, React, and Node.js. A recent achievement is rebuilding the UI of a healthcare platform (10k+ users, 20k+ transactions/month), preserving functionality while improving UX. Interested in scalability, architecture, and AI-powered coding.
 
 💻 Programming Languages: TypeScript, JavaScript, Ruby, PHP
 
